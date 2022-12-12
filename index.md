@@ -39,4 +39,4 @@ My GitHub Page is https://github.com/Vincent-Vargas.
 
 **The Guessing Game code in action**
 
-![A few rounds of the Guessing game](images/tty.gif)
+![The Guessing Game code in action](images/tty.gif)
