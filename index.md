@@ -27,7 +27,7 @@ My GitHub Page is https://github.com/Vincent-Vargas.
     as this finally allowed us to make a hi-lo game code with both random numbers and the ability for two 
     players to play. 
 
-**Two Custom files I made**
+**Two custom files I made:**
 
 * A custom Gradient image from Lab 10
 
