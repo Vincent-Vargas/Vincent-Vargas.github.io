@@ -29,7 +29,8 @@ My GitHub Page is https://github.com/Vincent-Vargas.
 
 **Two Custom files I made**
 
-* A custom Gradient image from Lab 10]
+* A custom Gradient image from Lab 10
+
 ![A custom Gradient image from Lab 10](images/custom_gradient.png)
 
 * A custom noise .gif from Lab 12
