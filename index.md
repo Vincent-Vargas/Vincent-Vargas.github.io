@@ -23,12 +23,14 @@ My GitHub Page is https://github.com/Vincent-Vargas.
 * Lab 11
 
     Lab 11 was my favorite lab out all the ones we've done this semester. While part 1 was fun learning about
-    how constructors work, it was part 2 that made me enjoy it. Part 2 showed me how far i've come in this class,
-    as this it finally allowed us to make a hi-lo game code with both random numbers and the ability for two 
+    how constructors work, it was part 2 that made me enjoy it. Part 2 showed me how far I've come in this class,
+    as this finally allowed us to make a hi-lo game code with both random numbers and the ability for two 
     players to play. 
 
 **Two Custom files I made**
 
+A custom Gradient image from Lab 10]
 ![A custom Gradient image from Lab 10](images/custom_gradient.png)
 
+A custom noise .gif from Lab 12
 ![A custom noise .gif from Lab 12](images/custom_noise.gif)
