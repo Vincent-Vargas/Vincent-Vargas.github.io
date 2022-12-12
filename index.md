@@ -26,3 +26,9 @@ My GitHub Page is https://github.com/Vincent-Vargas.
     how constructors work, it was part 2 that made me enjoy it. Part 2 showed me how far i've come in this class,
     as this it finally allowed us to make a hi-lo game code with both random numbers and the ability for two 
     players to play. 
+
+**Two Custom files I made**
+
+![A custom Gradient image from Lab 10](images/custom_gradient.png)
+
+![A custom noise .gif from Lab 12](images/custom_noise.gif)
