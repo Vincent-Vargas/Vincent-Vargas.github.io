@@ -1,6 +1,6 @@
 # Hello World!
 
-This is my home page! My name is Vincent Vargas and I am a Student at Cal State Fullerton and my major is Psychology
+This is my home page! My name is Vincent Vargas and I am a Student at [Cal State Fullerton](http://fullerton.edu/) and my major is Psychology
 
 ## Computer Science Projects 
 
