@@ -4,7 +4,7 @@ This is my home page! My name is Vincent Vargas and I am a Student at [Cal State
 
 ## Computer Science Projects 
 
-My GitHub Page is (https://github.com/Vincent-Vargas)
+My GitHub Page is [https://github.com/Vincent-Vargas](https://github.com/Vincent-Vargas)
 
 ### CPSC 120 
 
